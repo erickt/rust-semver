@@ -1,0 +1,4 @@
+#[link(name = "semver",
+       vers = "0.1.0-pre",
+       uuid = "bc09546e-ab42-4fcd-a7ee-928b9919b68c")];
+#[crate_type = "lib"];
